@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [test_link](test_link)
 
-- 💬 Ask me about **Systems, Finance, Data Science and anything that interests you...!**
+- 💬 Ask me about **C++, Finance, Data Science and anything that interests you...!**
 
 - 📫 How to reach me **avanishgadhikar@gmail.com or h.gadhikar@iitg.ac.in**
 
