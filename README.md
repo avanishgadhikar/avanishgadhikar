@@ -1,3 +1,5 @@
+![github imagr](https://github.com/avanishgadhikar/avanishgadhikar/assets/133745149/06b9d9e0-bd0e-448d-94b2-d2cd4d37d18e)
+
 <h1 align="center">Hi 👋, I'm Avanish Gadhikar</h1>
 <h3 align="center">a Mathematics and Computing pre-final yearite at IITG</h3>
 
