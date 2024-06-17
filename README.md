@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanishgadhikar&show_icons=true&locale=en" alt="avanishgadhikar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avanishgadhikar&" alt="avanishgadhikar" /></p>
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000864.31a923532a6f4771ae916a6cafcbada1.1244)](https://github.com/rayriffy/apple-music-github-profile)
+<!-- 
+### Programmer's Quote of the Day
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
+  -->
