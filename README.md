@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences through [my resume](test_resume_link)
 
-- ⚡ Fun fact **I once convinced my mom that github is an adult website**
+- ⚡ Fun fact **I once convinced my mom that github is an adult content website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
