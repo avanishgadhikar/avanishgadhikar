@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **C++, Finance, ML and DL**
 
-- 👨‍💻 All of my projects are available at [test_link](test_link)
+- 👨‍💻 All of my projects are available at [my website](https://avanishgadhikar.github.io/)
 
 - 💬 Ask me about **C++, Finance, Data Science and anything that interests you...!**
 
 - 📫 How to reach me **avanishgadhikar@gmail.com or h.gadhikar@iitg.ac.in**
 
-- 📄 Know about my experiences [test_resume_link](test_resume_link)
+- 📄 Know about my experiences through [my resume](test_resume_link)
 
-- ⚡ Fun fact **I like pineapple on my pizza :)**
+- ⚡ Fun fact **I once convinced my mom that github is an adult website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
