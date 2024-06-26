@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avanishgadhikar@gmail.com or h.gadhikar@iitg.ac.in**
 
-- 📄 Know about my experiences through [my resume](test_resume_link)
+- 📄 Know about my experiences through [my resume](https://drive.google.com/file/d/1239Y8B22iwxlswr9zFbARi44pbkmEk_j/view?usp=sharing)
 
 - ⚡ Fun fact **I once convinced my mom that github is an adult content website**
 
